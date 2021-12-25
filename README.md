@@ -1,2 +1,2 @@
 # dotnet-project
-1. Start CICD on checkin.
+1. Start CICD on checkin now.
